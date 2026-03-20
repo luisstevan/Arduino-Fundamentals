@@ -1,7 +1,5 @@
 PUSHBUTTON LED ARDUINO UNO R3 SMD
 
-
-
 Este projeto, embora pareça simples, envolve conceitos críticos para qualquer sistema de automação:
 
  - Tratamento de Sinal (Pull-Down): Utilização de um resistor de 10kΩ para garantir estabilidade elétrica no pino de leitura, eliminando ruídos de estática. 
